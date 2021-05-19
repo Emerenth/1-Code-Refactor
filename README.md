@@ -1,7 +1,7 @@
 # Code-Refactor
 
 ## Link to Website
-https://john-paul-grace.github.io/1-Code-Refactor/
+https://john-paul-grace.github.io/Code-Refactor/
 
 ## Description
 
